@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/logos">
+        <file>images/Logo.png</file>
+    </qresource>
+    <qresource prefix="/new/button icon">
+        <file>images/Add.png</file>
+        <file>images/Delete.png</file>
+        <file>images/Edit.png</file>
+    </qresource>
+    <qresource prefix="/new/login">
+        <file>images/Login.png</file>
+    </qresource>
+</RCC>
